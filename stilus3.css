@@ -11,3 +11,142 @@ img{
 body{
     background-color: rgb(190, 225, 255);
 }
+#elso{
+height: 800px;
+width: 500px;
+}
+
+#masodik{
+height: auto;
+width: 800px;
+}
+
+#harmadik{
+    height: 800px;
+    width: auto;
+}
+
+#negyedik{
+    height: auto;
+    width: 800px;
+}
+
+#otodik{
+    height: auto;
+    width: 800px;
+}
+
+#hatodik{
+    height:auto ;
+    width: 900px;
+}
+
+#hetedik{
+    height: auto;
+    width: 900px;
+}
+
+#nyolcadik{
+    width: 1600px; 
+}
+
+#kilencedik{
+    width: 1600px;
+}
+
+#tizedik{
+    width: 800px;
+}
+
+#tizenegy{
+    width:800px;
+}
+
+#tizenketto{
+    width: 800px;
+}
+
+#tizenharom{
+    width: 800px;
+}
+
+#tizennegy{
+    width: 800px;
+}
+
+#tizenot{
+    width: 800px;
+}
+
+#tizenhat{
+    width: 1000px;
+}
+
+#tizenhet{
+    width: 800px;
+}
+
+#tizennyolc{
+    width: 800px;
+}
+
+#tizenkilenc{
+    height: 800px;
+    width: auto;
+}
+
+#husz{
+    width: 800px; ;
+}
+
+#huszonegy{
+    width: 800px;
+}
+
+#huszonketto{
+    width: 800px;
+}
+
+#huszonharom{
+    width:  800px;
+}
+
+#huszonnegy{
+    width:  800px;
+}
+
+#huszonot{
+    width:  800px;
+}
+
+#huszonhat{
+    width:  800px;
+}
+
+#huszonhet{
+    width:  800px;
+}
+
+#huszonnyolc{
+    width:  800px;
+}
+
+#huszonkilenc{
+    width:  800px;
+}
+
+#harminc{
+    width:  800px;
+}
+
+#harmincegy{
+    width:  800px;
+}
+
+#harmincketto{
+    width:  800px;
+}
+
+#harmincharom{
+    width:  800px;
+}
