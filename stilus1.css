@@ -11,3 +11,21 @@ body{
 .nav{
     background-color: aqua;
 }
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+.dolt{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+table{
+    background-color: rgb(198, 255, 255);
+}
