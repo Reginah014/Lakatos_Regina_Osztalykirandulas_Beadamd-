@@ -6,150 +6,35 @@ header{
     font-weight: bold;
 }
 img{
-    padding: 10px;
+    padding: 5px;
 }
 body{
     background-color: rgb(190, 225, 255);
 }
-#elso{
-height: 800px;
-width: 500px;
-}
-
-#masodik{
-height: auto;
-width: 800px;
-}
-
-#harmadik{
-    height: 800px;
-    width: auto;
-}
-
-#negyedik{
+    footer{
+        text-align: center;
+    }
+    div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 250px;
+  }
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  div.gallery img {
+    width: 100%;
     height: auto;
-    width: 800px;
-}
-
-#otodik{
-    height: auto;
-    width: 800px;
-}
-
-#hatodik{
-    height:auto ;
-    width: 900px;
-}
-
-#hetedik{
-    height: auto;
-    width: 900px;
-}
-
-#nyolcadik{
-    width: 1600px; 
-}
-
-#kilencedik{
-    width: 1600px;
-}
-
-#tizedik{
-    width: 800px;
-}
-
-#tizenegy{
-    width:800px;
-}
-
-#tizenketto{
-    width: 800px;
-}
-
-#tizenharom{
-    width: 800px;
-}
-
-#tizennegy{
-    width: 800px;
-}
-
-#tizenot{
-    width: 800px;
-}
-
-#tizenhat{
-    width: 1000px;
-}
-
-#tizenhet{
-    width: 800px;
-}
-
-#tizennyolc{
-    width: 800px;
-}
-
-#tizenkilenc{
-    height: 800px;
-    width: auto;
-}
-
-#husz{
-    width: 800px; ;
-}
-
-#huszonegy{
-    width: 800px;
-}
-
-#huszonketto{
-    width: 800px;
-}
-
-#huszonharom{
-    width:  800px;
-}
-
-#huszonnegy{
-    width:  800px;
-}
-
-#huszonot{
-    width:  800px;
-}
-
-#huszonhat{
-    width:  800px;
-}
-
-#huszonhet{
-    width:  800px;
-}
-
-#huszonnyolc{
-    width:  800px;
-}
-
-#huszonkilenc{
-    width:  800px;
-}
-
-#harminc{
-    width:  800px;
-}
-
-#harmincegy{
-    width:  800px;
-}
-
-#harmincketto{
-    width:  800px;
-}
-
-#harmincharom{
-    width:  800px;
-}
-footer{
-    text-align: center;
-}
+  }
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
